@@ -1,3 +1,5 @@
+//made by Sabrina N. Ryan H. and Dimitri Z.
+
 var mySound;
 let circles = [];
 var n = 500;
